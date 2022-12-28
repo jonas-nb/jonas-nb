@@ -4,7 +4,7 @@
 <a href="https://github.com/jonas-nb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonas-batista-b77b24137/" target="_blank">
+<a href="https://www.linkedin.com/in/jonas-batista-b77b24137/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -23,10 +23,8 @@ Estou sempre procurando me atualizar em relação ao mundo da tecnologia, buscan
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Eu estou trabalhando para melhorar meu portfólio,  
-  
 
 - 🌱 Estou estudando React.js  
-  
 
 - ⚡ Fato Engraçado: Programo ouvindo músicas clássicas.   
 
