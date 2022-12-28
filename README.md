@@ -15,7 +15,7 @@ Estou sempre procurando me atualizar em relação ao mundo da tecnologia, buscan
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td align="top" width="10%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jonas-nb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
   
