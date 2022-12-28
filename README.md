@@ -13,7 +13,11 @@ Sou um programador front-end, amo construir interfaces e layouts responsivos e a
 Estou sempre procurando me atualizar em relação ao mundo da tecnologia, buscando interação, colaboração e resolução de problemas complexos.   
   
 <br/>  
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=jonas-nb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+  
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
@@ -47,12 +51,7 @@ Estou sempre procurando me atualizar em relação ao mundo da tecnologia, buscan
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 </div>  
 
-<br/>  
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jonas-nb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
