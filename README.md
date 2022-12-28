@@ -13,6 +13,7 @@ Sou um programador front-end, amo construir interfaces e layouts responsivos e a
 Estou sempre procurando me atualizar em relação ao mundo da tecnologia, buscando interação, colaboração e resolução de problemas complexos.   
   
 <br/>  
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
