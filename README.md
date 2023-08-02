@@ -66,9 +66,9 @@ I am able to work independently however my focus is on teamwork collaborating wi
 
 ## Rapidfire  
 
-- 🔭 Eu estou trabalhando para melhorar meu portfólio,  
-- 🌱 Estou estudando React.js  
-- ⚡ Fato Engraçado: Programo ouvindo músicas clássicas.   
+- 🔨 I am working on improving my portfolio,
+- 📚 I'm studying express.js
+- 🎼 Fun Fact: I program listening to classical music.
 
 
   
